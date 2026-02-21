@@ -1,0 +1,10 @@
+
+========== AUCTION TAX CALCULATION ==========
+Date & Time: 2026-02-08 10:21:33
+Property Type: Lease/Toll Rights
+Filer Status: Filer
+Tax Rate: 10%
+Auction Amount (PKR): 57456.00
+Auction Tax (PKR): 5745.60
+Total Payment (PKR): 63201.60
+=============================================

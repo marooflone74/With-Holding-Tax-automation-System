@@ -1,0 +1,8 @@
+
+========== SALARY TAX CALCULATION ==========
+Date & Time: 2026-01-31 00:48:49
+Annual Income (PKR): 897654345678.00
+Annual Tax (PKR): 246854390061.45
+Monthly Tax (PKR): 20571199171.79
+Net Annual Income (PKR): 650799955616.55
+============================================

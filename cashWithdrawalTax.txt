@@ -1,0 +1,17 @@
+
+========== CASH WITHDRAWAL TAX CALCULATION ==========
+Date & Time: 2026-01-31 00:43:19
+Filer Status: Non-Filer
+Withdrawal Amount (PKR): 5678.00
+Tax Deduction (PKR): 0.00
+Net Amount (PKR): 5678.00
+Note: No tax on withdrawals up to PKR 50,000
+=====================================================
+
+========== CASH WITHDRAWAL TAX CALCULATION ==========
+Date & Time: 2026-01-31 00:46:10
+Filer Status: Non-Filer
+Withdrawal Amount (PKR): 3578779.00
+Tax Deduction (PKR): 21472.67
+Net Amount (PKR): 3557306.33
+=====================================================

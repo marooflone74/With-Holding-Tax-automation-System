@@ -1,0 +1,9 @@
+
+========== DIVIDEND TAX CALCULATION ==========
+Date & Time: 2026-02-22 00:49:04
+Filer Status: Filer
+Tax Rate: 15%
+Gross Dividend (PKR): 5000060.00
+Tax Deducted (PKR): 750009.00
+Net Amount Received (PKR): 4250051.00
+==============================================

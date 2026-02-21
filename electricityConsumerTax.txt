@@ -1,0 +1,8 @@
+
+========== ELECTRICITY CONSUMER TAX CALCULATION ==========
+Date & Time: 2026-02-22 00:49:15
+Monthly Bill (PKR): 3000707.00
+Tax Rate: 7.5%
+Monthly Tax (PKR): 225053.02
+Total Payable (PKR): 3225760.02
+==========================================================
